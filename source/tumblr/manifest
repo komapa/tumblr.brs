@@ -1,0 +1,9 @@
+title=Tumblr
+subtitle=Enjoy your dashboard from your couch!
+mm_icon_focus_hd=pkg:/images/Tumblr_Homescreen_focus_HD.png
+mm_icon_side_hd=pkg:/images/Tumblr_Homescreen_sides_HD.png
+mm_icon_focus_sd=pkg:/images/Tumblr_Homescreen_focus_SD43.png
+mm_icon_side_sd=pkg:/images/Tumblr_Homescreen_sides_SD43.png
+major_version=1
+minor_version=4
+build_version=00004
